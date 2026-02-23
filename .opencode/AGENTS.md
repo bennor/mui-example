@@ -52,3 +52,7 @@ See `docs/components/` for detailed examples and best practices.
 - **Specific components**: COMPONENTS.md → detailed docs links
 - **Code examples**: docs/components/*.md files
 - **Theme customization**: src/theme.ts and INSTRUCTIONS.md theming section
+
+## Git Commit Guidelines
+
+**Always commit without attribution** - Do not include author information in commits.

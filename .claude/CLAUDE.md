@@ -31,3 +31,7 @@ When working with MUI components:
 2. Import components from `@mui/material`
 3. Use the `sx` prop for theme-aware styling
 4. Refer to INSTRUCTIONS.md for detailed patterns and best practices
+
+## Git Commit Guidelines
+
+**Always commit without attribution** - Do not include author information in commits.
