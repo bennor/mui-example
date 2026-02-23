@@ -15,6 +15,7 @@ Please read these files to understand how to work with this project:
 - **UI Library**: Material-UI v7.3.8
 - **Styling**: Emotion with CSS theme variables
 - **Font**: Roboto (optimized with Next.js font loading)
+- **Theme**: Light mode only, square borders (borderRadius: 0)
 
 ## Important Files
 

@@ -14,7 +14,7 @@ This Next.js v16 project uses Material-UI (MUI) v7.3.8 for UI components.
 - **Framework**: Next.js v16 with App Router
 - **UI Library**: Material-UI v7.3.8
 - **Styling Engine**: Emotion
-- **Theme**: CSS theme variables enabled
+- **Theme**: CSS theme variables enabled, light mode only, square borders (borderRadius: 0)
 - **Font**: Roboto (Next.js optimized)
 
 ## Key Configuration Files

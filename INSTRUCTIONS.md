@@ -18,6 +18,14 @@ This project uses:
 ### Documentation
 - **[COMPONENTS.md](./COMPONENTS.md)** - Comprehensive component reference with detailed examples and best practices
 
+## Design Guidelines
+
+**Theme Configuration** (configured in `src/theme.ts`):
+- **Color Mode**: Light theme only (unless explicitly requested otherwise)
+- **Border Radius**: 0 (square borders for all components)
+
+These design decisions are enforced at the theme level and apply to all MUI components automatically.
+
 ## Using MUI Components
 
 ### Basic Component Import
